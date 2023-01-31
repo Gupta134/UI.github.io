@@ -1,0 +1,104 @@
+body{
+   margin: 0;
+}
+.background{
+    margin-top:80px ;
+
+    
+    height: 45rem;
+    background-image: url("Images/new.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    margin-top:24px;
+    align-items: center;
+
+
+
+    
+}
+.navbar{
+    list-style-type: none;
+    
+
+}
+a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin: 10px;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+ 
+    
+}
+a:hover{
+    color: green;
+}
+.line{
+    border-bottom: 1px solid gray ;
+    
+
+}
+.Peragraph{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    margin-top: 60px;
+}
+.Upload{
+    text-align: center;
+    margin-top: 2px;
+
+
+}
+.get{
+    text-align: center;
+    margin-top: 40px;
+    font-style:  italic;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.button{
+    text-align: center;
+    margin-left: 200px;
+}
+.button1{
+    text-align: center;
+    margin-left: 200px;
+    color: green;
+
+}
+
+.spot{
+    background-color: #ebecec;
+    height: 33rem;
+    text-align: center;
+}
+.Steriod{
+    background-color: #1b242b;
+    height: 33rem;
+    text-align: center;
+    font-size: 30px;
+
+}
+.list{
+    display: inline;
+    padding: 10px;
+    color:white;
+    
+    
+
+}
+
+
+    
+
+
+
